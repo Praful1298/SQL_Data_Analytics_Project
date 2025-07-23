@@ -1,1 +1,1 @@
-# SQL_Data_Analytics_Project
+# SQL_Exploratory_Data_Analysis_Project
